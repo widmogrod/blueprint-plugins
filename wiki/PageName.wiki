@@ -22,12 +22,12 @@ Podstawowy przykład użycia - wszystkie zestawy:
 
 Gdy potrzebujemy tylko wybranego zestawu ikon anie całego pakietu – a mamy taką możliwość – załączamy go do projektu w następujący sposób:
 
-[code]
+
      <link rel="stylesheet" href="../../plugins/actions/default.css" type="text/css" />
      <-- <link rel="stylesheet" href="../../plugins/actions/normal.css" type="text/css" /> -->
      <-- <link rel="stylesheet" href="../../plugins/actions/small.css" type="text/css" /> -->
      <-- <link rel="stylesheet" href="../../plugins/actions/big.css" type="text/css" /> -->
-[/code]
+
 
 Należy odkomentować wybrany zestaw ikon
 === Teoretycznie ===
