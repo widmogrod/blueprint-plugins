@@ -1,0 +1,66 @@
+#labels Featured
+= Actions =
+== Wstęp==
+
+Plugin w założeniu ma pomóc w szybkim udekorowaniu backend-owych części serwisu takich jak:
+
+    * linki akcji (<a class=”action add”>anchor</a>)
+    * przycisk submit,button (<input type=”button” class=”action add” />)
+    * styli listy (<li class=”action add”>name</li>)
+    * itd.
+
+== Zastosowanie==
+
+Zastosowanie go w celach frontend-owych może mieć sens ale należy Sobie odpowiedzieć na pytanie:
+czy potrzebujemy tak dużego zestawu akcji?
+
+Podstawowy przykład użycia - wszystkie zestawy:
+{{{
+<link rel="stylesheet" href="../../plugins/actions/actions.css" type="text/css" />
+}}}
+
+Gdy potrzebujemy tylko wybranego zestawu ikon anie całego pakietu – a mamy taką możliwość – załączamy go do projektu w następujący sposób:
+
+{{
+<link rel="stylesheet" href="../../plugins/actions/default.css" type="text/css" />
+<-- <link rel="stylesheet" href="../../plugins/actions/normal.css" type="text/css" /> -->
+<-- <link rel="stylesheet" href="../../plugins/actions/small.css" type="text/css" /> -->
+<-- <link rel="stylesheet" href="../../plugins/actions/big.css" type="text/css" /> -->
+}}
+
+
+Należy odkomentować wybrany zestaw ikon
+=== Teoretycznie ===
+
+{{{
+<a class="action <small|big> <ico> <akcja>" href=""></a>
+<li class="action <small|big> <ico> <akcja>" ></li>
+<input class="action <small|big> <ico> <akcja>" type="input" />
+}}}
+
+Atrybuty akcji `small` i `big` oraz `ico` są opcjonalne.
+
+* **akcja** - nazwa akcji, której odpowiada ikona
+* **small, big** - odpowiednio duży i mały zestaw ikon akcji
+* **ico** - odpowiada za wcięcie tekstu - widoczna jest tylko ikona akcji
+* **normal** - domyślny styl - nie dodajemy klasy tak jak dla `small` i `big`
+
+=== Praktycznie ===
+
+{{{
+<a class="action small ico add" href=""></a>
+<li class="action big add" ></li>
+<input class="action add" type="input" />
+}}}
+
+==Przykład==
+
+Poniżej prezentuję zestawienie trzech podstawowych wielkości ikon
+
+    * normal
+    * small
+    * big (w trakcie rozwoju – a dokładniej brak ikon, szukanie zastępczych)
+
+i ich wizualizację
+
+[http://blueprintcss.widmogrod.info/examples/actions/example_1.html demo]
