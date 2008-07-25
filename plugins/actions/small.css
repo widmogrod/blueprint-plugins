@@ -8,6 +8,7 @@
 .action.small.edit			{ background-image: url("images/small/edit.png"); }
 .action.small.delete		{ background-image: url("images/small/delete.png"); }
 .action.small.delete-1		{ background-image: url("images/small/delete_1.png"); }
+.action.small.copy 			{ background-image: url("images/small/copy.png"); }
 
 .action.small.cancel		{ background-image: url("images/small/cancel.png"); }
 .action.small.notice		{ background-image: url("images/small/notice.png"); }

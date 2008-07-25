@@ -15,6 +15,7 @@
 .action.big.edit		{ background-image: url("images/big/edit.png"); }
 .action.big.delete		{ background-image: url("images/big/delete.png"); }
 .action.big.delete-1	{ background-image: url("images/big/delete_1.png"); }
+.action.big.copy 		{ background-image: url("images/big/copy.png"); }
 
 .action.big.true		{ background-image: url("images/big/true.png"); }
 .action.big.false		{ background-image: url("images/big/false.png"); }
