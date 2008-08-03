@@ -41,6 +41,11 @@
 .action.attach		{ background-image: url("images/normal/attach.png"); }
 .action.refresh 	{ background-image: url("images/normal/refresh.png"); }
 
-.action.loader 	{ background-image: url("images/normal/loader.gif"); }
+.action.loader 		{ background-image: url("images/normal/loader.gif"); }
 
 .action.language 	{ background-image: url("images/normal/language.png"); }
+
+.action.stats 		{ background-image: url("images/normal/stats-1.png"); }
+.action.stats-1 	{ background-image: url("images/normal/stats-2.png"); }
+.action.stats-2 	{ background-image: url("images/normal/stats-3.png"); }
+.action.stats-3 	{ background-image: url("images/normal/stats-4.png"); }

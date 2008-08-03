@@ -41,7 +41,12 @@
 .action.small.attach		{ background-image: url("images/small/attach.png"); }
 .action.small.refresh 		{ background-image: url("images/small/refresh.png"); }
 
-.action.small.language 	{ background-image: url("images/small/language.png"); }
+.action.small.language 		{ background-image: url("images/small/language.png"); }
 
-/* TODO Zaimplementowac
-.action.loader 	{ background-image: url("images/small/loader.gif"); }*/
+.action.small.stats 		{ background-image: url("images/small/stats-1.png"); }
+.action.small.stats-1 		{ background-image: url("images/small/stats-2.png"); }
+.action.small.stats-2 		{ background-image: url("images/small/stats-3.png"); }
+.action.small.stats-3 		{ background-image: url("images/small/stats-4.png"); }
+
+
+.action.small.loader 		{ background-image: url("images/small/loader.gif"); }
