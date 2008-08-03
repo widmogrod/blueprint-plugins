@@ -35,4 +35,11 @@
 .action.big.favorite	{ background-image: url("images/big/favorite.png"); }
 .action.big.attach		{ background-image: url("images/big/attach.png"); }
 
+.action.big.loader 		{ background-image: url("images/big/loader.gif"); }
+
 .action.big.language 	{ background-image: url("images/big/language.png"); }
+
+.action.big.stats 		{ background-image: url("images/big/stats-1.png"); }
+.action.big.stats-1 	{ background-image: url("images/big/stats-2.png"); }
+.action.big.stats-2 	{ background-image: url("images/big/stats-3.png"); }
+.action.big.stats-3 	{ background-image: url("images/big/stats-4.png"); }
