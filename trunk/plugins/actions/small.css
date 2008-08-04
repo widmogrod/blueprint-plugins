@@ -48,5 +48,10 @@
 .action.small.stats-2 		{ background-image: url("images/small/stats-3.png"); }
 .action.small.stats-3 		{ background-image: url("images/small/stats-4.png"); }
 
+.action.small.key 			{ background-image: url("images/small/key.png"); }
+.action.small.lock 			{ background-image: url("images/small/lock.png"); }
+.action.small.unlock		{ background-image: url("images/small/unlock.png"); }
+.action.small.shield 		{ background-image: url("images/small/shield.png"); }
+
 
 .action.small.loader 		{ background-image: url("images/small/loader.gif"); }

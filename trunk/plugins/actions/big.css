@@ -43,3 +43,8 @@
 .action.big.stats-1 	{ background-image: url("images/big/stats-2.png"); }
 .action.big.stats-2 	{ background-image: url("images/big/stats-3.png"); }
 .action.big.stats-3 	{ background-image: url("images/big/stats-4.png"); }
+
+.action.big.key 		{ background-image: url("images/big/key.png"); }
+.action.big.lock 		{ background-image: url("images/big/lock.png"); }
+.action.big.unlock		{ background-image: url("images/big/unlock.png"); }
+.action.big.shield 		{ background-image: url("images/big/shield.png"); }
