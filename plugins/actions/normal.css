@@ -49,3 +49,8 @@
 .action.stats-1 	{ background-image: url("images/normal/stats-2.png"); }
 .action.stats-2 	{ background-image: url("images/normal/stats-3.png"); }
 .action.stats-3 	{ background-image: url("images/normal/stats-4.png"); }
+
+.action.key 		{ background-image: url("images/normal/key.png"); }
+.action.lock 		{ background-image: url("images/normal/lock.png"); }
+.action.unlock		{ background-image: url("images/normal/unlock.png"); }
+.action.shield 		{ background-image: url("images/normal/shield.png"); }
