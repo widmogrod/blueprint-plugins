@@ -54,3 +54,15 @@
 .action.lock 		{ background-image: url("images/normal/lock.png"); }
 .action.unlock		{ background-image: url("images/normal/unlock.png"); }
 .action.shield 		{ background-image: url("images/normal/shield.png"); }
+
+.action.web 		{ background-image: url("images/normal/web.png"); }
+.action.save 		{ background-image: url("images/normal/save.png"); }
+.action.hot 		{ background-image: url("images/normal/hot.png"); }
+.action.paste 		{ background-image: url("images/normal/paste.png"); }
+.action.time 		{ background-image: url("images/normal/time.png"); }
+.action.alarm 		{ background-image: url("images/normal/alarm.png"); }
+.action.alarm-1 	{ background-image: url("images/normal/alarm-1.png"); }
+
+.action.trash 		{ background-image: url("images/normal/trash.png"); }
+.action.bug 		{ background-image: url("images/normal/bug.png"); }
+.action.group 		{ background-image: url("images/normal/group.png"); }
